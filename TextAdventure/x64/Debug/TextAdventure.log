@@ -1,0 +1,45 @@
+﻿  stdafx.cpp
+  TextAdventure.cpp
+  Sala.cpp
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): error C2011: 'Sala': 'class' type redefinition
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(5): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(7): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(9): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(11): error C2065: 'descripcion': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(12): error C2065: 'descripcion': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(13): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(15): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(17): error C2065: 'sala1': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(18): error C2065: 'sala2': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(19): error C2065: 'descripcion': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(20): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(23): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(25): error C2065: 'sala1': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(28): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(30): error C2065: 'sala2': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(33): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(35): error C2065: 'descripcion': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(39): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(40): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(41): error C2065: 'sala1': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(44): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(45): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(46): error C2065: 'sala2': undeclared identifier
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(49): error C2027: use of undefined type 'Sala'
+  e:\users\alejandro\documents\github\textadventure\textadventure\sala.h(5): note: see declaration of 'Sala'
+e:\users\alejandro\documents\github\textadventure\textadventure\sala.cpp(51): error C2065: 'descripcion': undeclared identifier
+  Generating Code...
