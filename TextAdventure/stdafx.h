@@ -16,3 +16,4 @@
 #include <list>
 
 #include "Sala.h"
+#include "Jugador.h"
